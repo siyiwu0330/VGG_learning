@@ -9,8 +9,12 @@
 loss
 ---
 
+![image](https://user-images.githubusercontent.com/40969794/125823838-74e11b06-c601-4aed-86ad-17f2f27a85f8.png)
+
+
 acc
 ---
 
+![image](https://user-images.githubusercontent.com/40969794/125823876-924b4464-ace4-4b5f-ae88-4f61175243c4.png)
 
 
